@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello There🙋🏻‍♂️
+
+![Snake SVG](https://github.com/kushanthakur/kushanthakur/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 <!--
 **kushanthakur/kushanthakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
