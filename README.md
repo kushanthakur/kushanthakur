@@ -1,3 +1,8 @@
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://github.com/kushanthakur/kushanthakur/blob/output/github-contribution-grid-snake-dark.svg" />
+	<img alt="GitHub contribution snake" src="https://github.com/kushanthakur/kushanthakur/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ### Hey, I’m Kushan 🙋🏻‍♂️
 
 Full-stack engineer at HSBC with a backend + platform focus. I ship governed data access experiences, Kubernetes-first delivery, and contract-first APIs. Always tuning the SDLC so teams ship fast without trading away security.
