@@ -5,7 +5,7 @@
 
 ### Hey, I’m Kushan 🙋🏻‍♂️
 
-Full-stack engineer at HSBC with a backend + platform focus. I ship governed data access experiences, Kubernetes-first delivery, and contract-first APIs. Always tuning the SDLC so teams ship fast without trading away security.
+Senior Software engineer at HSBC with a backend + platform focus. I ship governed data access experiences, Kubernetes-first delivery, and contract-first APIs. Always tuning the SDLC so teams ship fast without trading away security.
 
 **Currently**: building on Kubernetes/Helm, supporting data teams across Hadoop/Impala/Doris/Kafka/Redis, and leveling up platform automation.
 
