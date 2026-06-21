@@ -3,6 +3,11 @@ name: generate animation
 permissions:
   contents: write
 
+# cancel an in-flight run when a newer push/cron lands on the same ref
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   # run automatically once a day at midnight UTC
   schedule:
@@ -23,7 +28,7 @@ jobs:
 
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3 # latest v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: kushanthakur
           outputs: |
